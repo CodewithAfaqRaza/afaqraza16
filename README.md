@@ -10,8 +10,14 @@
 I specialize in building responsive, full-stack web applications using MongoDB, Express, React, and Node.js. My focus is on creating seamless user experiences and efficient backend solutions, combining clean code with modern best practices.
 
 🔹 Tech I Use: MERN, Redux, REST APIs, Docker, and more
+
+
 🔹 Core Strengths: Full-stack development, API integrations, and optimization
+
+
 🔹 Currently Learning: DevOps and microservices for scalable apps
+
+
 
 🚀 Check out my projects below or reach out—I'm open to collaborations and new opportunities!
 
