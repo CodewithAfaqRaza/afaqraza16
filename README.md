@@ -7,11 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afaqraza16" alt="afaqraza16" /></a> </p>
 
-- 🌱 I’m currently learning **Next**
+I specialize in building responsive, full-stack web applications using MongoDB, Express, React, and Node.js. My focus is on creating seamless user experiences and efficient backend solutions, combining clean code with modern best practices.
+
+🔹 Tech I Use: MERN, Redux, REST APIs, Docker, and more
+🔹 Core Strengths: Full-stack development, API integrations, and optimization
+🔹 Currently Learning: DevOps and microservices for scalable apps
+
+🚀 Check out my projects below or reach out—I'm open to collaborations and new opportunities!
 
 - 👨‍💻 All of my projects are available at [https://afaqrazaportfolio.netlify.app](https://afaqrazaportfolio.netlify.app)
 
-- 💬 Ask me about **React, Next, Vue,Gsap Framer Motion**
+- 💬 Ask me about **React, Next, Vue , Gsap and  Framer Motion**
 
 - 📫 How to reach me **afaqraza0220@gmail.com**
 
