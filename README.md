@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png"/>
 <h1 align="center">Hi 👋, I'm Muhammad Afaq Raza</h1>
 <h3 align="center">"Hi! 👋 I'm a MERN Stack developer passionate about building seamless web applications."</h3>
 
