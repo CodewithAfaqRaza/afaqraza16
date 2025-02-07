@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png"/>
-# 💫 About Me:
+<h1>Muhammad Afaq Raza</h1> <br> <br>
 "Hi! 👋 I'm a MERN Stack developer passionate about building seamless web applications."<br><br>I specialize in building responsive, full-stack web applications using MongoDB, Express, React, and Node.js. My focus is on creating seamless user experiences and efficient backend solutions, combining clean code with modern best practices.<br><br>🔹 Tech I Use: MERN, Redux, REST APIs, Docker, and more<br><br>🔹 Core Strengths: Full-stack development, API integrations, and optimization<br><br>🔹 Currently Learning: DevOps and microservices for scalable apps<br><br>🚀 Check out my projects below or reach out—I'm open to collaborations and new opportunities!<br><br>👨‍💻 All of my projects are available at https://afaqrazaportfolio.netlify.app<br><br>💬 Ask me about React, Next, Vue , Gsap and Framer Motion<br><br>📫 How to reach me afaqraza0220@gmail.com<br><br>⚡ Fun fact I am Fuuny
 
 
